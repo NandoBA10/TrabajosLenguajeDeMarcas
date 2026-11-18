@@ -1,0 +1,13 @@
+h1{
+    border-bottom: 2px solid;
+    color: #00F;
+}
+h2{
+    border: 2px solid;
+    color: #AAA;
+}
+#listaDatos{
+    border-top: 4px dotted;
+    border-bottom: 4px dotted;
+    color: red;
+}

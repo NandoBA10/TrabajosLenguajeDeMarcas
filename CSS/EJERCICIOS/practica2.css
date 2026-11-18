@@ -1,0 +1,39 @@
+h1{
+    font-size: large;
+    color: green;
+}
+h2{
+    font-size: medium;
+    color: red;
+}
+p{
+    color: blue;
+    font-size: medium;
+    line-height: 1.5;
+}  
+a{
+    color: gray;
+    text-decoration: none;
+}
+li{
+    font-size: large;
+}
+.destacado{
+    color: gray;
+    background-color: white;
+}
+.nota{
+    font-style: italic;
+    opacity: 10px;
+}
+.caps{
+    text-transform: uppercase;
+}
+#cabecera{
+    letter-spacing: 2;
+    color: lightblue;
+}
+#pie{
+    font-size: small;
+    color: beige;
+}
